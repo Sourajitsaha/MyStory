@@ -7,3 +7,6 @@ Lion: The pet of Emily.
 Mr.Doren: The Zoo Watchman.
 
 Mr.Grothy: Father of Emily
+
+
+Mrs Hamburger: The witch of the forest.
